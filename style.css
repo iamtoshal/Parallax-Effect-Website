@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Poppins:wght@300&family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Work+Sans:wght@500&display=swap');
+
 
 
 * {
@@ -51,7 +50,6 @@ h1 {
     font-size: 10rem;
     letter-spacing: 4px;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    /* font-family: 'Josefin Sans', sans-serif; */
     font-weight: bold;
 }
 
@@ -64,11 +62,9 @@ section {
 .secHeading {
     font-size: 5rem;
     padding: 0 10rem;
-    /* font-family: 'Josefin Sans', sans-serif; */
 }
 
 .text {
-    /* font-family: 'Quicksand', sans-serif; */
     font-size: 1.5rem;
     padding: 0 10rem;
     margin: 5rem 0;
@@ -81,7 +77,6 @@ section {
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
-    /* height: 31.25rem; same as 500px */
     height: 500px;
 }
 
@@ -95,7 +90,6 @@ section {
     color: black;
     font-size: 3.5rem;
     font-weight: 600px;
-    /* font-family: 'Work Sans', sans-serif; */
 }
 
 .bg1 {
